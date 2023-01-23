@@ -176,9 +176,5 @@ clusterGroup:
       clusterSelector:
         matchLabels:
           clusterGroup: factory
-        matchExpressions:
-        - key: vendor
-          operator: In
-          values:
-            - OpenShift
+
 
