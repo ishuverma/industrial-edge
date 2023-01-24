@@ -24,7 +24,7 @@ machineSensor1:
 
 machineSensor2:
   port: 80
-  sensorTemperature: false
+  sensorTemperature: true
 
 mqtt:
   broker:
