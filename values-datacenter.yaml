@@ -1,5 +1,5 @@
 clusterGroup:
-  name: factory
+  name: datacenter
   isHubCluster: true
 
   namespaces:
